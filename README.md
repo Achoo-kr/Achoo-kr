@@ -27,6 +27,9 @@ Studied Objective-C(basic), Swift, UIKit, SwiftUI, HIG, Git(Version Control)
 B.A in Français Appliqué à la Traduction et à l'Interprétation(French)
 B.S in AI & Software(Double Major)
 
+<br>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
 
 <!--
 **Achoo-kr/Achoo-kr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
