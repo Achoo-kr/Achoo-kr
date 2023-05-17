@@ -25,6 +25,7 @@ Studied Objective-C(basic), Swift, UIKit, SwiftUI, HIG, Git(Version Control)
 • HUFS(Hankuk University of Foreign Studies)
 
 B.A in Français Appliqué à la Traduction et à l'Interprétation(French)
+
 B.S in AI & Software(Double Major)
 
 <br>
