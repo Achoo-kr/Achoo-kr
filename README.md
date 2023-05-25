@@ -10,7 +10,7 @@ released three apps so far.
 
 • [Awesome Korean Dictionary](https://apps.apple.com/kr/app/awesome-korean-dictionary/id1665422867?l=en) - App for those who want to learn Korean used in real life
 
-• [Hapit](https://apps.apple.com/kr/app/hapit-%ED%96%89%EB%B3%B5%ED%95%9C-%EC%8A%B5%EA%B4%80-%EB%A7%8C%EB%93%A4%EA%B8%B0/id1669445295) - App for tracking habit and challenging together
+• [Hapit](https://apps.apple.com/kr/app/hapit-%ED%96%89%EB%B3%B5%ED%95%9C-%EC%8A%B5%EA%B4%80-%EB%A7%8C%EB%93%A4%EA%B8%B0/id1669445295) - Social Media App for tracking habit and challenging together
 
 Education
 -------------
