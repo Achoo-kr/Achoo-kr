@@ -2,7 +2,7 @@
 
 iOS Developer
 -------------
-using `SwiftUI` and `TCA`. Currently working as an assistant instructor at [App School](https://techit.education/school/kdt-app-3rd)
+Using `SwiftUI` and `TCA`. Currently working as an assistant instructor at [App School](https://techit.education/school/kdt-app-3rd)
 
 released three apps so far.
 
