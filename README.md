@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&text=ACHOO!&color=gradient&fontAlign=83)
 
-iOS Developer
+App Developer
 -------------
-Using `SwiftUI` and `TCA`. Currently working as an assistant instructor at [App School](https://techit.education/school/kdt-app-3rd)
+Using `SwiftUI` and `TCA`  /  `Flutter`.
 
 released three apps so far.
 
@@ -12,9 +12,43 @@ released three apps so far.
 
 • [Hapit](https://apps.apple.com/kr/app/hapit-%ED%96%89%EB%B3%B5%ED%95%9C-%EC%8A%B5%EA%B4%80-%EB%A7%8C%EB%93%A4%EA%B8%B0/id1669445295) - Social Media App for tracking habit and challenging together
 
+Writer
+-------------
+Written [Korean TCA 1.0 guide book](https://ridibooks.com/books/2773000087)
+
+With the permission of [Point-Free](https://github.com/pointfreeco), I released the TCA 1.0 Korean guidebook to mark the official release of TCA 1.0
+
+<br>
+
+Work Experience
+-------------
+Outsourcing
+
+• [Tourlive](https://www.tourlive.co.kr/)
+
+2023.09.27 ~ 2023.10.03
+
+Diagnosing and resolving errors in the Flutter's File downloading library
+
+2023.07.01 ~ 2023.07.31
+
+Build an iOS Native Video/Audio Player, a key feature of the app
+
+<br>
+
+Tech Education
+
+• [App School](https://techit.education/school/kdt-app-3rd)
+
+2023.05 ~ 2023.10
+
+worked as an assistant instructor
+
+<br>
+
 Education
 -------------
-• App School
+• [App School](https://techit.education/school/kdt-app-3rd)
 
 2022.09.14 ~ 2023.02.17
 
@@ -32,7 +66,7 @@ B.S in AI & Software(Double Major)
 
 About Me
 -------------
-creative, passionate, dedicated, cooperative
+creative, cooperative, passionate, dedicated
 
 <br>
 
