@@ -12,6 +12,8 @@ released three apps so far.
 
 • [Hapit](https://apps.apple.com/kr/app/hapit-%ED%96%89%EB%B3%B5%ED%95%9C-%EC%8A%B5%EA%B4%80-%EB%A7%8C%EB%93%A4%EA%B8%B0/id1669445295) - Social Media App for tracking habit and challenging together
 
+<br>
+
 Writer
 -------------
 Written [Korean TCA 1.0 guide book](https://ridibooks.com/books/2773000087)
