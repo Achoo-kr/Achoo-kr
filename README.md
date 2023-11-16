@@ -14,6 +14,12 @@ released three apps so far.
 
 <br>
 
+Enthusiastic about being a part of the open-source community and contributing to open-source projects.
+
+• Contributor of [apple/swift](https://github.com/apple/swift/pulls?q=author%3AAchoo-kr), [apple/swift-evolution](https://github.com/apple/swift-evolution/pulls?q=author%3AAchoo-kr)
+
+• Contributor of [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture/pulls?q=author%3AAchoo-kr)
+
 Writer
 -------------
 Written [Korean TCA 1.0 guide book](https://ridibooks.com/books/2773000087)
