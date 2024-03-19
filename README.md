@@ -2,6 +2,8 @@
 
 App Developer
 -------------
+Currently working as a Software Engineer at iyuno global.
+
 Using `SwiftUI` and `TCA`  /  `Flutter`, released three apps so far.
 
 • [Seoul Salam](https://apps.apple.com/kr/app/seoulsalam/id6448895318?l=en) - App for muslims in Korea
