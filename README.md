@@ -40,6 +40,8 @@ Software Engineer
 
 Developing an app using dart(Flutter) and swift(iOS)
 
+<br>
+
 Outsourcing
 
 • [Tourlive](https://www.tourlive.co.kr/)
