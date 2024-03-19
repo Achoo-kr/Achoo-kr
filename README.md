@@ -2,7 +2,7 @@
 
 App Developer
 -------------
-Currently working as a Software Engineer at iyuno global.
+Currently working as a Software Engineer at iyuno Global.
 
 Using `SwiftUI` and `TCA`  /  `Flutter`, released three apps so far.
 
@@ -32,6 +32,14 @@ With the permission of [Point-Free](https://github.com/pointfreeco), I released 
 
 Work Experience
 -------------
+Software Engineer
+
+• [iyuno Global](https://iyuno.com/)
+
+2023.03.18 ~
+
+Developing an app using dart(Flutter) and swift(iOS)
+
 Outsourcing
 
 • [Tourlive](https://www.tourlive.co.kr/)
