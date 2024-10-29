@@ -14,6 +14,9 @@ Enthusiastic about being a part of the open-source community and contributing to
 
 Multi-lingual(Korean, English, Japanese / all fluent)
 
+• Wrote Japanese Translation of TCA Readme [pointfreeco/swift-composable-architecture](https://gist.github.com/Achoo-kr/2d0712deb77f78b3379551ac7baea3e4)
+
+
 <br>
 
 Writer
