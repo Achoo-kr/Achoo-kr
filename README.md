@@ -12,6 +12,8 @@ Enthusiastic about being a part of the open-source community and contributing to
 
 • Contributor of [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture/pulls?q=author%3AAchoo-kr)
 
+Multi-lingual(Korean, English, Japanese / all fluent)
+
 <br>
 
 Writer
@@ -41,6 +43,7 @@ Software Engineer
 
 Developing an app using dart(Flutter) and swift(macOS)
 Migrated backend server and DB to Supabase(fully set up and controlled by myself)
+Used English while working
 
 <br>
 
