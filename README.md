@@ -2,17 +2,9 @@
 
 App Developer
 -------------
-Currently working as a Software Engineer at iyuno Global.
+Currently working as a Software Engineer at A-better.
 
-Using `SwiftUI` and `TCA`  /  `Flutter`, released three apps so far.
-
-• [Seoul Salam](https://apps.apple.com/kr/app/seoulsalam/id6448895318?l=en) - App for muslims in Korea
-
-• [Awesome Korean Dictionary](https://apps.apple.com/kr/app/awesome-korean-dictionary/id1665422867?l=en) - App for those who want to learn Korean used in real life
-
-• [Hapit](https://apps.apple.com/kr/app/hapit-%ED%96%89%EB%B3%B5%ED%95%9C-%EC%8A%B5%EA%B4%80-%EB%A7%8C%EB%93%A4%EA%B8%B0/id1669445295) - Social Media App for tracking habit and challenging together
-
-<br>
+Using `Flutter` and `SwiftUI`(`TCA`), mainly `Flutter` now.
 
 Enthusiastic about being a part of the open-source community and contributing to open-source projects.
 
@@ -34,15 +26,33 @@ Work Experience
 -------------
 Software Engineer
 
+• [Abetter](https://www.a-better.co.kr/)
+
+2024.10.07 ~
+
+Developing an app using dart(Flutter)
+
+
+Software Engineer
+
 • [iyuno Global](https://iyuno.com/)
 
-2023.03.18 ~
+2024.03.18 ~
 
-Developing an app using dart(Flutter) and swift(iOS)
+Developing an app using dart(Flutter) and swift(macOS)
+Migrated backend server and DB to Supabase(fully set up and controlled by myself)
 
 <br>
 
 Outsourcing
+
+• Dealsplus
+
+2024.05 ~ 2024.09
+
+Build a Flutter app using affiliate network. The company's currently merged to Abetter
+
+<br>
 
 • [Tourlive](https://www.tourlive.co.kr/)
 
