@@ -14,7 +14,7 @@ Enthusiastic about being a part of the open-source community and contributing to
 
 Multi-lingual(Korean, English, Japanese / all fluent)
 
-• Wrote Japanese Translation of TCA Readme [pointfreeco/swift-composable-architecture](https://gist.github.com/Achoo-kr/2d0712deb77f78b3379551ac7baea3e4)
+• Wrote Japanese Translation of TCA Readme [swift-composable-architecture readme Japanese translation](https://gist.github.com/Achoo-kr/2d0712deb77f78b3379551ac7baea3e4)
 
 
 <br>
@@ -56,7 +56,7 @@ Outsourcing
 
 2024.05 ~ 2024.09
 
-Build a Flutter app using affiliate network. The company's currently merged to Abetter
+Build a Flutter app using affiliate network. The company's currently merged to [Abetter](https://www.a-better.co.kr/)
 
 <br>
 
