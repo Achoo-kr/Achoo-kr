@@ -46,7 +46,6 @@ Software Engineer
 
 Developing an app using dart(Flutter) and swift(macOS)
 Migrated backend server and DB to Supabase(fully set up and controlled by myself)
-Used English while working
 
 <br>
 
